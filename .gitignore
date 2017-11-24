@@ -9,7 +9,8 @@
 # production
 *.map
 
-/.idea
+.idea
+*.xml
 # misc
 .DS_Store
 .env.local
