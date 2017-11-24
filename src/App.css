@@ -1,6 +1,19 @@
-.App {
-  width:1200px;
+.App{
+  width:900px;
   border:1px solid #eee;
-  margin:1rem auto;
+  margin:2rem auto;
+  padding:80px 100px 50px 0px;
+}
+
+.App:hover{
+  border-color:#ddd;
+  transition: all 1s;
+}
+
+.signBtn{
+  width:80%;
+  margin-left:18%;
+  margin-top:50px;
+  margin-bottom:50px;
 }
 
